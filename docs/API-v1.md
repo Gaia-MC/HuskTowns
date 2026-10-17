@@ -53,7 +53,7 @@ allprojects {
 
 ```groovy
 dependencies {
-    compileOnly 'net.william278:HuskTowns:1.8.2'
+    compileOnly 'net.william278:HuskTowns:1.8.3'
 }
 ```
 </details>
